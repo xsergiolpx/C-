@@ -1,7 +1,3 @@
-/*
- *		Sergio Ballesteros Solanas 
-*/
-
 #include <stdio.h>
 #include <iostream>
 #include <vector>
