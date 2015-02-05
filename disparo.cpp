@@ -1,11 +1,4 @@
-/*
- *		Sergio Ballesteros 
- * 		
- * 		Este programa resuelve todos los casos de la practica propuesta por el profesor.
- * 		Las magnitudes finales y los errores se muestran en pantalla.
- * 		Se exportan en archivos de texto el tiempo, velocidad y posicion calculada por el metodo de RKF5.
- * 
- */
+
 
 #include <stdio.h>
 #include <iostream>
